@@ -1,0 +1,3 @@
+selenium
+translators
+bs4
